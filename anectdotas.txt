@@ -5,3 +5,5 @@ no estaba funcionando, o creiamos que no funcionaba, debido a que no reflejaba v
 alrededor de una hora tratando de corregir dicho error, solo para luego de revisar la caja
 darnos cuenta de que el procesador que compramos no tenia graficos integrados, lo que 
 conllevaba a que necesitabamos conseguir una tarjeta de video.
+
+Hola
