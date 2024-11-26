@@ -1,1 +1,7 @@
-Un día una compañera estaba como loca buscando sus lentes en el salón ... hasta que le avisamos que los traía puestos. 
+Eliseo:
+
+Hubo una ocasion en la que con mi padre no sabiamos porque un componente de la computadora
+no estaba funcionando, o creiamos que no funcionaba, debido a que no reflejaba video, estuvimos
+alrededor de una hora tratando de corregir dicho error, solo para luego de revisar la caja
+darnos cuenta de que el procesador que compramos no tenia graficos integrados, lo que 
+conllevaba a que necesitabamos conseguir una tarjeta de video.
