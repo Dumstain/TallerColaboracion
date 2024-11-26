@@ -10,3 +10,6 @@ Pulpo común (Octopus vulgaris)
 -Perro
 -Gato
 -Vaca 
+Aguila
+Zopilote
+Paloma
